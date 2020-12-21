@@ -45,11 +45,22 @@ int main(){
 
   Employee eml;
   
-  cout<<"��J���u���"<<endl;
+  cout<<"¿é¤J­û¤u¸ê®Æ"<<endl;
   eml.input_date();
-  cout<<"��J���u���"<<endl<<endl;
+  cout<<"¿é¤J­û¤u¸ê®Æ"<<endl<<endl;
   eml.print_date();
   
   system("pause");
   return 0;
 }
+//輸入員工資料
+//name:wwww
+//age:24
+//salary:15566
+//moblie:0917766555
+//輸出員工資料
+
+//wwww
+//24
+//15566
+//0917766555
